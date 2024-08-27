@@ -1,8 +1,8 @@
 # Weather Forecasting Dashboard
 
-The app provides real-time weather updates, including current temperature, humidity, wind speed and direction, minimum and maximum temperatures, and a detailed weather description with corresponding images. Additionally, it features a five days weather forecast, offering users a comprehensive view of upcoming weather conditions.
+The app provides real-time weather updates, including current temperature, humidity, wind speed and direction, minimum and maximum temperatures, and detailed weather description with corresponding images. Additionally, it features a five days weather forecast, offering users a comprehensive view of upcoming weather conditions.
 
-# Language Used
+# Languages Used
 
 <ul>
   <li>HTML</li>
