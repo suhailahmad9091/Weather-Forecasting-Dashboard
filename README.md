@@ -20,6 +20,6 @@ npm run dev
 
 # Live Demo
 
-<a href="https://suhail-ahmad-weather-forecasting.netlify.app" style="text-decoration:none;">https://suhail-ahmad-weather-forecasting.netlify.app</a>
+[Weather Forecasting App](https://suhail-ahmad-weather-forecasting.netlify.app)
 
 
