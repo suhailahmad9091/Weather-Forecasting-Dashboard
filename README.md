@@ -21,5 +21,6 @@ npm run dev
 # Live Demo
 
 [Weather Forecasting App](https://suhail-ahmad-weather-forecasting.netlify.app)
+<a href="https://github.com" style="text-decoration:none;">GitHub</a>
 
 
