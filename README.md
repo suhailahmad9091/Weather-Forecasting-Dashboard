@@ -21,5 +21,6 @@ npm run dev
 # Live Demo
 
 [https://suhail-ahmad-weather-forecasting.netlify.app]
-
+[![Your Image Text](https://your-image-url.com)](https://your-link.com)
+[![Badge Text](https://img.shields.io/badge/Your_Text-blue)](https://your-link.com)
 
