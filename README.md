@@ -12,12 +12,6 @@
   <li>Tailwind CSS</li>
 </ul>
 
-# Steps to run the project
-
-npm install
-
-npm run dev
-
 # Live Demo
 
 [https://suhail-ahmad-weather-forecasting.netlify.app](https://suhail-ahmad-weather-forecasting.netlify.app)
